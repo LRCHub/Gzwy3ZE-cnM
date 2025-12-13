@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "終夜アングラリア",
+  "base_artist": "YUGUREMI",
+  "createdAt": "2025-12-13T13:37:08.600493Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "終夜アングラリア",
+      "artist": "YUGUREMI",
+      "has_synced": false,
+      "path": "select/pl_01_終夜アングラリア_YUGUREMI.txt"
+    }
+  ]
+}
